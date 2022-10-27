@@ -1,2 +1,2 @@
 # portfolio
-School assignment in HTML and CSS, using Bootstrap 4
+WIP. School assignment in HTML and CSS, using Bootstrap 4
